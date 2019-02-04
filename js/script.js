@@ -1,7 +1,32 @@
 /* global $ */
 
 // BELOW Update the songs array with four of your favorites songs.
-var songs = [];
+var songs = ["7 Rings",
+"Dura Remix", 
+"Taki Taki",
+"Zeze"];
+
+var songImage = ["https://static.stereogum.com/uploads/2019/01/Ariana-Grande-_7-rings_-Artwork-1547761906-640x640.jpg",
+"https://m.media-amazon.com/images/I/814YsbXlhoL._SS500_.jpg",
+"https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Taki_Taki_%28Official_Single_Cover%29_-_DJ_Snake.png/220px-Taki_Taki_%28Official_Single_Cover%29_-_DJ_Snake.png",
+"https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Zeze_%28official_single_cover%29.png/220px-Zeze_%28official_single_cover%29.png"];
+
+var artist = ["Ariana Grande",
+"Daddy Yankee Ft. Bad Bunny, Natti Natasha & Becky G",
+"DJ Snake Ft. Selena Gomez, Ozuna & Cardi B",
+"Kodak Black Ft. Travis Scott & Offset"]
+
+var songLength = ["3:05",
+"4:09",
+"3:52",
+"3:46"]
+
+var link = ["https://www.youtube.com/watch?v=QYh6mYIJG2Y",
+"https://www.youtube.com/watch?v=-FvrwHtg6uo",
+"https://www.youtube.com/watch?v=ixkoVwKQaJg",
+"https://www.youtube.com/watch?v=mjaayCARwro"]
+
+
 // BELOW Add 4 More arrays to store images_links, artists, song lengths, and links for each song
 // Make sure they match the same order as your array above
 
